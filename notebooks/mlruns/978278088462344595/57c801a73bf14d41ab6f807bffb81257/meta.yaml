@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/price%20optimization/notebooks/mlruns/978278088462344595/57c801a73bf14d41ab6f807bffb81257/artifacts
+end_time: 1747949810195
+entry_point_name: ''
+experiment_id: '978278088462344595'
+lifecycle_stage: active
+run_id: 57c801a73bf14d41ab6f807bffb81257
+run_name: Neural Network
+run_uuid: 57c801a73bf14d41ab6f807bffb81257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747949657636
+status: 3
+tags: []
+user_id: User

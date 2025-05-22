@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/price%20optimization/notebooks/mlruns/978278088462344595/c4308ecf54634dd7a8bdd5da53a1055c/artifacts
+end_time: 1747949824852
+entry_point_name: ''
+experiment_id: '978278088462344595'
+lifecycle_stage: active
+run_id: c4308ecf54634dd7a8bdd5da53a1055c
+run_name: XGBoost
+run_uuid: c4308ecf54634dd7a8bdd5da53a1055c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747949810223
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/price%20optimization/notebooks/mlruns/978278088462344595/0cf15bc28019477b91ffa7ea39c683d0/artifacts
+end_time: 1747949657605
+entry_point_name: ''
+experiment_id: '978278088462344595'
+lifecycle_stage: active
+run_id: 0cf15bc28019477b91ffa7ea39c683d0
+run_name: Random Forest
+run_uuid: 0cf15bc28019477b91ffa7ea39c683d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747949402362
+status: 3
+tags: []
+user_id: User

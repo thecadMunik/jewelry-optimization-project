@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/price%20optimization/notebooks/mlruns/978278088462344595/6c0dffa0c08443d4808937d5e61a8254/artifacts
+end_time: 1747949402355
+entry_point_name: ''
+experiment_id: '978278088462344595'
+lifecycle_stage: active
+run_id: 6c0dffa0c08443d4808937d5e61a8254
+run_name: Linear Regression
+run_uuid: 6c0dffa0c08443d4808937d5e61a8254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747949393422
+status: 3
+tags: []
+user_id: User
